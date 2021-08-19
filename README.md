@@ -1,4 +1,4 @@
-# HNG i8 Software Engineering Interbship - Resume website task from HNG i8 internship
+# HNG i8 Software Engineering Internship - Resume website task from HNG i8 internship
 
 This is a solution to the [Resume website for front-end developer] by HNG i8 
 ## Table of contents
@@ -21,8 +21,8 @@ This is a solution to the [Resume website for front-end developer] by HNG i8
 ### Screenshot
 This is a screenshot of my solution to print my name using javascript below.
 ![](screenshot.png)
-The name of the file for the simple program is located 
-here:
+The name of the file for the simple program  to print my name using javascript 1s located 
+here: in  myname.html file
  ![](./myname.html)
 
 ### Links
