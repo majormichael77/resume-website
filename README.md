@@ -20,7 +20,7 @@ This is a solution to the [Resume website for front-end developer] by HNG i8
 
 ### Screenshot
 This is a screenshot of my solution to print my name using javascript below.
-![](/screenshot.png)
+Screenshot URL: [Java simple program](https://github.com/majormichael77/resume-website/blob/main/screenshot.PNG)
 The name of the file for the simple program  to print my name using javascript 1s located 
 here: in  myname.html file
  ![](./myname.html)
