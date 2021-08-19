@@ -20,7 +20,7 @@ This is a solution to the [Resume website for front-end developer] by HNG i8
 
 ### Screenshot
 This is a screenshot of my solution to print my name using javascript below.
-![](./screenshot.png)
+![](screenshot.png)
 The name of the file for the simple program is located 
 here:
  ![](./myname.html)
